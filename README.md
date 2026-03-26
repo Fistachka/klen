@@ -31,4 +31,8 @@ YAlta, avgust i my s toboyu vlyubleny
 Previous lesson:
 ![pexels-mccutcheon-1148998](https://github.com/user-attachments/assets/cbe60bb4-3102-4264-b458-ec21db7ca71d =200x200)
 stolbitsa.com/fistachka/parus<br><br>
+![2](https://github.com/user-attachments/assets/54b6ab65-3274-440d-bf6b-eecbf95e9ecb)
+![1](https://github.com/user-attachments/assets/b4ab2c87-d430-4a9a-aa3a-efbcee2dd41c)
+
+
 
