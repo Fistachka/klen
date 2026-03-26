@@ -1,15 +1,17 @@
 <span id="ru"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
 
-"Наше лето" группа "Валентин Стрыкало" 2011г. 1 припев
-![4](https://github.com/user-attachments/assets/cd8d3c80-e852-43d3-8eb4-892eaaa0da83)
+"Клён" (Там, где клён шумит...) группа "Синяя птица" 1975г. 1 часть
+![2](https://github.com/user-attachments/assets/54b6ab65-3274-440d-bf6b-eecbf95e9ecb)
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/iYr3Vs9MtPw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/38_hXzXkZY4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
-Яхта, парус, в этом мире только мы одни
-Ялта, август и мы с тобою влюблены
-Яхта, парус, в этом мире только мы одни
-Ялта, август и мы с тобою влюблены
+Там где клён шумит над речной волной
+Говорили мы о любви с тобой
+Опустел тот клён, в поле бродит мгла,
+А любовь как сон стороной прошла.
+А любовь как сон, а любовь как сон,
+А любовь как сон стороной прошла.
 
 Предыдущий урок:
 ![pexels-mccutcheon-1148998](https://github.com/user-attachments/assets/cbe60bb4-3102-4264-b458-ec21db7ca71d =200x200)
@@ -17,22 +19,20 @@ stolbitsa.com/fistachka/parus<br><br>
 
 <span id="en"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
 
-"Our Summer" by the band "Valentin Strykalo" (2011), 2 st verse
-![4](https://github.com/user-attachments/assets/cd8d3c80-e852-43d3-8eb4-892eaaa0da83)
+"Klyon" (Where the maple rustles...) by the band "Sinyaya Ptitsa" (Blue Bird), 1975. 1 st verse
+![2](https://github.com/user-attachments/assets/54b6ab65-3274-440d-bf6b-eecbf95e9ecb)
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/AgKGt8-qMC0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LVZdirPM6SM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
-YAhta, parus, v etom mire tol'ko my odni
-YAlta, avgust i my s toboyu vlyubleny
-YAhta, parus, v etom mire tol'ko my odni
-YAlta, avgust i my s toboyu vlyubleny
+Tam gde klyon shumit nad rechnoj volnoj
+Govorili my o lyubvi s toboj
+Opustel tot klyon, v pole brodit mgla,
+A lyubov' kak son storonoj proshla.
+A lyubov' kak son, a lyubov' kak son,
+A lyubov' kak son storonoj proshla.
 
 Previous lesson:
 ![pexels-mccutcheon-1148998](https://github.com/user-attachments/assets/cbe60bb4-3102-4264-b458-ec21db7ca71d =200x200)
 stolbitsa.com/fistachka/parus<br><br>
-![2](https://github.com/user-attachments/assets/54b6ab65-3274-440d-bf6b-eecbf95e9ecb)
-![1](https://github.com/user-attachments/assets/b4ab2c87-d430-4a9a-aa3a-efbcee2dd41c)
-
-
 
