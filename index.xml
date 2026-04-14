@@ -2,7 +2,7 @@
 <level>
   <owner>Fistachka</owner>
   <repo>klen</repo>
-  <version>v1.0.6</version>
+  <version>v1.0.7</version>
   <next number="1" owner="Fistachka" repo="klen2"/>
   <readme>
     <ru>414a8366d83f107b82be712f1657be2c913b7d214cc9836e09e84e8edbbaecfe</ru>
@@ -17,11 +17,11 @@
     <tonalities>12</tonalities>
     <video name="1t.mp4" size="2687025" type="video/mp4" volume="0.5">3ca39237bd7b4b11d5d91e5272d8c39efd98002e66e487f229b2559922bd5e68</video>
     <notes>
-      <note number="1" values="5" ticks="710" durationTicks="14" ppq="96" velocity="0.764"/>
-      <note number="2" values="5" ticks="734" durationTicks="24" ppq="96" velocity="0.772"/>
-      <note number="3" values="28" ticks="760" durationTicks="70" ppq="96" velocity="0.827"/>
-      <note number="4" values="18" ticks="829" durationTicks="16" ppq="96" velocity="0.772"/>
-      <note number="5" values="18" ticks="856" durationTicks="92" ppq="96" velocity="0.827"/>
+      <note number="1" values="5" ticks="576" durationTicks="14" ppq="96" velocity="0.764"/>
+      <note number="2" values="5" ticks="600" durationTicks="24" ppq="96" velocity="0.772"/>
+      <note number="3" values="28" ticks="626" durationTicks="70" ppq="96" velocity="0.827"/>
+      <note number="4" values="18" ticks="695" durationTicks="16" ppq="96" velocity="0.772"/>
+      <note number="5" values="18" ticks="722" durationTicks="92" ppq="96" velocity="0.827"/>
     </notes>
   </exercise>
   <exercise number="2">
