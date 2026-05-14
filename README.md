@@ -4,7 +4,7 @@
 ![2](https://github.com/user-attachments/assets/54b6ab65-3274-440d-bf6b-eecbf95e9ecb)
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/ydiUWniyawg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/38_hXzXkZY4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ziyGewlDDz8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
 Там где клён шумит над речной волной
 Говорили мы о любви с тобой
@@ -23,7 +23,7 @@ stolbitsa.com/fistachka/parus<br><br>
 ![2](https://github.com/user-attachments/assets/54b6ab65-3274-440d-bf6b-eecbf95e9ecb)
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/rB1QZWsk_YI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LVZdirPM6SM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KADNdndVna8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
 Tam gde klyon shumit nad rechnoj volnoj
 Govorili my o lyubvi s toboj
